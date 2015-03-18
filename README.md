@@ -1,4 +1,4 @@
-# Age-Calculator
+# AgeCalculator
 An answer to the age calculation question in Test 1.
 
 Here's the question:
